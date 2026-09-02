@@ -57,7 +57,7 @@ device or firmware.
 
 | Model                      | Device codename | Tested builds                                                                |
 | -------------------------- | --------------- | ---------------------------------------------------------------------------- |
-| SM-S942x (S26 Snapdragon)  | m1q             | S9420ZCS4AZG1, S942QOPU1AZDE, S942U1UES4AZG3, S942USQS4AZG3                  |
+| SM-S942x (S26 Snapdragon)  | m1q             | S9420ZCS4AZG1, S9420ZHU2AZDE, S942QOPU1AZDE, S942U1UES4AZG3, S942USQS4AZG3    |
 | SM-S947x (S26+ Snapdragon) | m2q             | S9470ZCS4AZG1, S947USQS4AZG3                                                 |
 | SM-S9480 (S26 Ultra CN)    | m3q             | S9480ZCS3AZF1, **S9480ZCS4AZG1** (tested build)                              |
 | SM-S948x (S26 Ultra)       | m3q             | S9480ZHS4AZG1, S948BXXS4AZG5/6, S948NKSS4AZG3, S948U1UES2AZE1, S948USQS4AZG3 |
